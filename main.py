@@ -101,6 +101,8 @@ while is_on:
                 make_coffee(choice, drink["ingredients"])
 
 os.system('cls')
+
+
 print('''
    ( (
     ) )
